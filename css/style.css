@@ -1,17 +1,6 @@
-.fondoPagina{
-	background-color: rgb(184, 189, 196);
+.letrahebrea{
+	font-size: 22px;
 }
-.logo{
-	color: white;
-	font-size: 60px;
-}
-.encabezado{
-	background-image: -o-linear-gradient(bottom, #13ADD4 0%, #1A5075 100%);
-	background-image: -moz-linear-gradient(bottom, #13ADD4 0%, #1A5075 100%);
-	background-image: -webkit-linear-gradient(bottom, #13ADD4 0%, #1A5075 100%);
-	background-image: -ms-linear-gradient(bottom, #13ADD4 0%, #1A5075 100%);
-	background-image: linear-gradient(to bottom, #13ADD4 0%, #1A5075 100%);
-}	
-.img{
-	margin: 0.1em;	
+.IconoTorah{
+	width: 3em;
 }
