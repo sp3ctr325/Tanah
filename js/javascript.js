@@ -1,0 +1,1 @@
+document.getElementById("parrafo").innerHTML="esto es un parrafo";
